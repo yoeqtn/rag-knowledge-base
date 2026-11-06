@@ -1,0 +1,17 @@
+{"question": "出差结束以后，最晚多久必须把报销单交上去？", "expected_source": "差旅报销制度.md", "expected_keywords": ["15 个工作日"]}
+{"question": "去成都出差，一晚酒店最多能报多少钱？", "expected_source": "差旅报销制度.md", "expected_keywords": ["450 元"]}
+{"question": "在成都连着出差第 10 天，住宿上限会提高吗？提高多少？", "expected_source": "差旅报销制度.md", "expected_keywords": ["450 元", "20%"]}
+{"question": "自己开车出差，油钱和过路费还单独报吗？", "expected_source": "差旅报销制度.md", "expected_keywords": ["1.2 元"]}
+{"question": "早上出去晚上回来这种出差，餐补怎么算？", "expected_source": "差旅报销制度.md", "expected_keywords": ["50 元"]}
+{"question": "去年 12 月的发票，今年最晚什么时候还能报？", "expected_source": "差旅报销制度.md", "expected_keywords": ["次年 1 月 31 日"]}
+{"question": "公司配的笔记本丢了，多久之内要上报？", "expected_source": "信息安全规范.md", "expected_keywords": ["2 小时"]}
+{"question": "密码设置有硬性长度要求吗？", "expected_source": "信息安全规范.md", "expected_keywords": ["12 位"]}
+{"question": "密码用久了会自动要求更换吗？多久一次？", "expected_source": "信息安全规范.md", "expected_keywords": ["90 天"]}
+{"question": "收到一封可疑邮件，应该多快上报？", "expected_source": "信息安全规范.md", "expected_keywords": ["30 分钟"]}
+{"question": "公司要求每天几点必须在岗？", "expected_source": "考勤与休假制度.md", "expected_keywords": ["10:00", "17:00"]}
+{"question": "老员工工作满五年，一年能休多少天？", "expected_source": "考勤与休假制度.md", "expected_keywords": ["15 天"]}
+{"question": "今年没休完的假期，最晚能拖到什么时候？", "expected_source": "考勤与休假制度.md", "expected_keywords": ["次年 3 月 31 日"]}
+{"question": "二十万以上的采购要走到哪一级审批？", "expected_source": "采购审批流程.md", "expected_keywords": ["总经理办公会"]}
+{"question": "采购比价最少找几家供应商？", "expected_source": "采购审批流程.md", "expected_keywords": ["三家"]}
+{"question": "试用期能拿全薪吗？", "expected_source": "新员工入职指南.md", "expected_keywords": ["80%"]}
+{"question": "每个月几号发工资？", "expected_source": "新员工入职指南.md", "expected_keywords": ["15 日"]}

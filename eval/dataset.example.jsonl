@@ -1,0 +1,8 @@
+{"question": "出差报销需要在几个工作日内提交申请？", "expected_source": "差旅报销制度.md", "expected_keywords": ["15 个工作日"]}
+{"question": "成都的住宿标准是多少钱一晚？", "expected_source": "差旅报销制度.md", "expected_keywords": ["450"]}
+{"question": "连续出差超过一周住宿标准会变化吗？", "expected_source": "差旅报销制度.md", "expected_keywords": ["20%"]}
+{"question": "自驾出差的油费怎么报销？", "expected_source": "差旅报销制度.md", "expected_keywords": ["1.2", "里程"]}
+{"question": "密码多长时间必须更换一次？", "expected_source": "信息安全规范.md", "expected_keywords": ["90 天"]}
+{"question": "公司设备丢失后多久内要上报？", "expected_source": "信息安全规范.md", "expected_keywords": ["2 小时"]}
+{"question": "发现钓鱼邮件应该怎么做？", "expected_source": "信息安全规范.md", "expected_keywords": ["30 分钟", "安全热线"]}
+{"question": "机密数据可以存在个人网盘里吗？", "expected_source": "信息安全规范.md", "expected_keywords": ["禁止"]}
